@@ -1,3 +1,8 @@
+**Circuit Diagram for the Project **
+
+[![Circuit Diagram](https://github.com/theultimateprasad/AI_BASED_IOT_CONTROL/blob/master/Blynk/Blynk_Relay_control_Circuit_bb.png)
+
+
 [![GitHub version](https://img.shields.io/github/release/blynkkk/blynk-library.svg)](https://github.com/blynkkk/blynk-library/releases/latest)
 [![GitHub download](https://img.shields.io/github/downloads/blynkkk/blynk-library/total.svg)](https://github.com/blynkkk/blynk-library/releases/latest)
 [![GitHub stars](https://img.shields.io/github/stars/blynkkk/blynk-library.svg)](https://github.com/blynkkk/blynk-library/stargazers)
